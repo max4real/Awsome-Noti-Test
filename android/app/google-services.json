@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "623235794648",
+    "project_id": "awsome-notification",
+    "storage_bucket": "awsome-notification.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623235794648:android:7d96173fee050f67ed79ad",
+        "android_client_info": {
+          "package_name": "com.example.awsome_noti_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA78sIBu9PTNX8vBTOIXjIu_QiG6xNuYmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
